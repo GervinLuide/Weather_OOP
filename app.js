@@ -1,5 +1,5 @@
 // LS object
-const ls = LS()
+const ls = new LS()
 // init city data
 const initCity = ls.getCity()
 // Weather object
